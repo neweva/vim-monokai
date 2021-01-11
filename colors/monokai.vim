@@ -434,6 +434,7 @@ call s:h("jsonNumber",                  { "fg": s:red    })
 
 " Terminal Colors
 " ---------------
+
 if has('nvim')
   let g:terminal_color_0  = s:black.gui
   let g:terminal_color_1  = s:red.gui
