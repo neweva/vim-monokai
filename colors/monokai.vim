@@ -432,6 +432,9 @@ call s:h("jsonString",                  { "fg": s:orange })
 call s:h("jsonBoolean",                 { "fg": s:aqua   })
 call s:h("jsonNumber",                  { "fg": s:red    })
 
+" Shell
+call s:h("shNumber",                    { "fg": s:pink   })
+
 " Terminal Colors
 " ---------------
 
