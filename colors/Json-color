@@ -1,0 +1,5 @@
+" Json
+call s:h("jsonKeyword",                 { "fg": s:green  })
+call s:h("jsonString",                  { "fg": s:orange })
+call s:h("jsonBoolean",                 { "fg": s:aqua   })
+call s:h("jsonNumber",                  { "fg": s:red    })
