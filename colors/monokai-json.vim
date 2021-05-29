@@ -1,6 +1,6 @@
-" File:       monokai.vim
+" File:       monokai-json.vim
 " Maintainer: Crusoe Xia (crusoexia)
-" URL:        https://github.com/crusoexia/vim-monokai
+" URL:        https://github.com/neweva/vim-monokai-json
 " License:    MIT
 "
 " The colour palette is from http://www.colourlovers.com/
@@ -29,7 +29,7 @@ if exists("syntax_on")
   syntax reset
 endif
 
-let colors_name = "monokai"
+let colors_name = "monokai-json"
 
 function! s:h(group, style)
   let s:ctermformat = "NONE"
